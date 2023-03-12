@@ -1,0 +1,9 @@
+nama: putri ragilita
+url profile github: github.com/putriragilita
+algoritma: makan roti panggang
+1. menyiapkan roti dan bahan lainnya
+2. menyiapkan alat panggang
+3. oleskan mentega pada roti
+4. beri toping sesuai selera
+5. panggang roti sampai matang
+6. roti siap disajikan
